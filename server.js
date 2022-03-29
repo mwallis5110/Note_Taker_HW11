@@ -14,11 +14,6 @@ app.use(express.static("public"));
 app.use("/", htmlRoutes);
 app.use("/api", apiRoutes);
 
-// app.get("/", (req, res) => {
-//   res.json(`${req.method} request received`);
-// });
-
-
 app.listen(PORT, () =>
   console.log(`Express server listening on port ${PORT}!`)
 );

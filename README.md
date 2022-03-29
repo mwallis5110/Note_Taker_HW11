@@ -5,6 +5,10 @@ Note Taker
 ## Description 
 This program allows you to take short notes, then view and delete them later.
 
+## Deployed App
+
+[Click Here](https://unit-11-note-taker-32.herokuapp.com/)
+
 ## Table of Contents
 #### [Installation Instructions](#installation-instructions)<br>
 #### [Using The Program](#using-the-program)<br>
@@ -12,7 +16,7 @@ This program allows you to take short notes, then view and delete them later.
 #### [How to Contribute](#how-to-contribute)<br>
 #### [Tests](#tests)<br>
 #### [Questions](#questions)<br>
-#### [Github Link](#github-link)<br>
+#### [Github Repo](#github-repo)<br>
 #### [Email](#email)<br>
 
 ## Installation Instructions
@@ -37,8 +41,8 @@ No tests have been written for this program.
 ## Questions
 Contact me via email at mwallis5110@gmail.com
 
-## Github Link
-
+## Github Repo
+[Click Here](https://github.com/mwallis5110/Note_Taker_HW11)
 
 ## Email
 mwallis5110@gmail.com
